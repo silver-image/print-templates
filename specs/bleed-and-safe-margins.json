@@ -1,0 +1,133 @@
+{
+ "source": "https://www.silverimagelondon.com/guides/how-much-bleed-does-each-print-product-need",
+ "publisher": "Silver Image Print & Signs",
+ "as_of": "2026-11",
+ "rows": [
+  {
+   "product": "Business cards , flyers , invitations , menus , place cards and ID badges",
+   "bleed": "3 mm on every edge",
+   "safe_margin_and_other_limits": "Text 5 mm clear of the trim",
+   "resolution_at_finished_size": "300 dpi"
+  },
+  {
+   "product": "Booklets , orders of service and documents",
+   "bleed": "3 mm on every edge",
+   "safe_margin_and_other_limits": "Text 5 mm clear of the trim",
+   "resolution_at_finished_size": "300 dpi"
+  },
+  {
+   "product": "Perfect bound books",
+   "bleed": "3 mm on all edges, inside and cover",
+   "safe_margin_and_other_limits": "Text 12 mm from the spine edge",
+   "resolution_at_finished_size": "300 dpi"
+  },
+  {
+   "product": "Wire bound documents",
+   "bleed": "3 mm on anything running to the edge",
+   "safe_margin_and_other_limits": "At least 15 mm clear on the bound edge",
+   "resolution_at_finished_size": "300 dpi"
+  },
+  {
+   "product": "Posters",
+   "bleed": "5 to 10 mm on every edge",
+   "safe_margin_and_other_limits": "Text and logos 5 mm inside the trim",
+   "resolution_at_finished_size": "150 dpi"
+  },
+  {
+   "product": "A-board posters",
+   "bleed": "3 mm on every edge",
+   "safe_margin_and_other_limits": "Text and numbers 15 mm inside the edge",
+   "resolution_at_finished_size": "150 dpi"
+  },
+  {
+   "product": "Foamex boards , strut cards and table plans",
+   "bleed": "5 to 10 mm on every edge",
+   "safe_margin_and_other_limits": "Text and logos 5 mm inside the trim",
+   "resolution_at_finished_size": "300 dpi"
+  },
+  {
+   "product": "Correx",
+   "bleed": "5 to 10 mm on every edge",
+   "safe_margin_and_other_limits": "Text 10 mm inside the trim, clear of eyelets and holes",
+   "resolution_at_finished_size": "150 dpi"
+  },
+  {
+   "product": "Dibond",
+   "bleed": "5 mm on every edge",
+   "safe_margin_and_other_limits": "Text 15 mm inside the trim, 25 mm clear of screw corners",
+   "resolution_at_finished_size": "150 dpi; 300 for plaque-scale text"
+  },
+  {
+   "product": "Safety signs",
+   "bleed": "5 to 10 mm on every edge",
+   "safe_margin_and_other_limits": "Text and symbols 5 mm inside the trim",
+   "resolution_at_finished_size": "150 dpi"
+  },
+  {
+   "product": "PVC banners",
+   "bleed": "5 to 10 mm on every edge",
+   "safe_margin_and_other_limits": "Important detail 50 mm from the edges and eyelets",
+   "resolution_at_finished_size": "30 dpi is enough"
+  },
+  {
+   "product": "Roller banners",
+   "bleed": "5 to 10 mm on every edge",
+   "safe_margin_and_other_limits": "Text and logos 5 mm inside the trim",
+   "resolution_at_finished_size": "30 dpi is enough"
+  },
+  {
+   "product": "Exhibition graphics",
+   "bleed": "3 mm per panel edge",
+   "safe_margin_and_other_limits": "20 mm top and bottom; faces and text off seam lines",
+   "resolution_at_finished_size": "150 dpi"
+  },
+  {
+   "product": "Hoarding panels",
+   "bleed": "5 mm per panel edge; 50 mm or more top and bottom on a slope",
+   "safe_margin_and_other_limits": "Critical content 150 mm off the top and bottom",
+   "resolution_at_finished_size": "30 dpi at the finished size, which is 300 dpi in artwork built at 1:10"
+  },
+  {
+   "product": "Canvas",
+   "bleed": "Bar depth plus 20 mm on every edge",
+   "safe_margin_and_other_limits": "Faces, text and logos well inside the wrap line",
+   "resolution_at_finished_size": "150 to 300 dpi"
+  },
+  {
+   "product": "Printed tablecloths",
+   "bleed": "10 mm on every edge",
+   "safe_margin_and_other_limits": "Logos out of the corner folds",
+   "resolution_at_finished_size": "150 dpi"
+  },
+  {
+   "product": "Feather flags",
+   "bleed": "10 mm",
+   "safe_margin_and_other_limits": "Text and logos 50 mm clear of the mast-side edge",
+   "resolution_at_finished_size": "150 dpi"
+  },
+  {
+   "product": "Stickers",
+   "bleed": "3 to 5 mm beyond the cut path",
+   "safe_margin_and_other_limits": "Text and detail 3 mm inside the cut path",
+   "resolution_at_finished_size": "150 dpi"
+  },
+  {
+   "product": "Vinyl graphics",
+   "bleed": "3 to 5 mm beyond the cut path on printed graphics",
+   "safe_margin_and_other_limits": "Strokes and gaps no finer than about 3 mm on cut lettering",
+   "resolution_at_finished_size": "150 dpi; vector for lettering"
+  },
+  {
+   "product": "Window film",
+   "bleed": "10 to 15 mm on full-pane coverage",
+   "safe_margin_and_other_limits": "Each pane measured at the top, middle and bottom",
+   "resolution_at_finished_size": "150 dpi"
+  },
+  {
+   "product": "Vehicle decals and magnetic panels",
+   "bleed": "3 mm",
+   "safe_margin_and_other_limits": "Around 15 mm cap height for cut letters",
+   "resolution_at_finished_size": "Vector for anything cut"
+  }
+ ]
+}

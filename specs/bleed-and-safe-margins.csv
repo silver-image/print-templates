@@ -1,0 +1,22 @@
+product,bleed,safe_margin_and_other_limits,resolution_at_finished_size
+"Business cards , flyers , invitations , menus , place cards and ID badges",3 mm on every edge,Text 5 mm clear of the trim,300 dpi
+"Booklets , orders of service and documents",3 mm on every edge,Text 5 mm clear of the trim,300 dpi
+Perfect bound books,"3 mm on all edges, inside and cover",Text 12 mm from the spine edge,300 dpi
+Wire bound documents,3 mm on anything running to the edge,At least 15 mm clear on the bound edge,300 dpi
+Posters,5 to 10 mm on every edge,Text and logos 5 mm inside the trim,150 dpi
+A-board posters,3 mm on every edge,Text and numbers 15 mm inside the edge,150 dpi
+"Foamex boards , strut cards and table plans",5 to 10 mm on every edge,Text and logos 5 mm inside the trim,300 dpi
+Correx,5 to 10 mm on every edge,"Text 10 mm inside the trim, clear of eyelets and holes",150 dpi
+Dibond,5 mm on every edge,"Text 15 mm inside the trim, 25 mm clear of screw corners",150 dpi; 300 for plaque-scale text
+Safety signs,5 to 10 mm on every edge,Text and symbols 5 mm inside the trim,150 dpi
+PVC banners,5 to 10 mm on every edge,Important detail 50 mm from the edges and eyelets,30 dpi is enough
+Roller banners,5 to 10 mm on every edge,Text and logos 5 mm inside the trim,30 dpi is enough
+Exhibition graphics,3 mm per panel edge,20 mm top and bottom; faces and text off seam lines,150 dpi
+Hoarding panels,5 mm per panel edge; 50 mm or more top and bottom on a slope,Critical content 150 mm off the top and bottom,"30 dpi at the finished size, which is 300 dpi in artwork built at 1:10"
+Canvas,Bar depth plus 20 mm on every edge,"Faces, text and logos well inside the wrap line",150 to 300 dpi
+Printed tablecloths,10 mm on every edge,Logos out of the corner folds,150 dpi
+Feather flags,10 mm,Text and logos 50 mm clear of the mast-side edge,150 dpi
+Stickers,3 to 5 mm beyond the cut path,Text and detail 3 mm inside the cut path,150 dpi
+Vinyl graphics,3 to 5 mm beyond the cut path on printed graphics,Strokes and gaps no finer than about 3 mm on cut lettering,150 dpi; vector for lettering
+Window film,10 to 15 mm on full-pane coverage,"Each pane measured at the top, middle and bottom",150 dpi
+Vehicle decals and magnetic panels,3 mm,Around 15 mm cap height for cut letters,Vector for anything cut
